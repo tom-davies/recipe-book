@@ -1,0 +1,28 @@
+# Select measurements (with spaces)
+
+```
+([\d.]+)\s+(\S+)
+```
+
+# Select measurements (without spaces)
+```
+([\d.]+)(\S+)
+```
+
+```
+(\d+(?:\.\d*)?|\.\d+)(\w+)
+```
+
+# Convert measurements to bold
+```
+**$1$2**
+```
+
+# Select timings
+```
+(\(\d+-\d+ minutes\))
+```
+# Convert timings to italics
+```
+_$1_
+```

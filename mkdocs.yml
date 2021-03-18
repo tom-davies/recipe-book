@@ -1,0 +1,26 @@
+site_name: Tom's Recipe Book
+repo_url: https://github.com/tom-davies/recipes
+#nav:
+
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: teal
+    accent: green
+
+plugins:
+  - search
+#  - mkdocs_pymdownx_material_extras
+
+markdown_extensions:
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.tasklist:
+      custom_checkbox: true
+      clickable_checkbox: true
+  - pymdownx.smartsymbols
+  - pymdownx.details
+  - attr_list
+  - admonition
