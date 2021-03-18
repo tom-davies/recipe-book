@@ -1,6 +1,6 @@
 # Sohla's Chicken and Rice
 
-![chickenpie.jpg](https://images.food52.com/-oLZGXQnU6ZFZEYfFs5mGhmwWuA=/1008x672/filters:format(webp)/b5dcb317-035a-4085-9166-52fce19ec759--2020-0827_one-skillet-crispy-garam-masala-chicken-thighs-saffron-rice_3x2_ty-mecham_3-.jpg){loading="lazy"}
+![chickenpie.jpg](https://images.food52.com/-oLZGXQnU6ZFZEYfFs5mGhmwWuA=/1008x672/filters:format(webp)/b5dcb317-035a-4085-9166-52fce19ec759--2020-0827_one-skillet-crispy-garam-masala-chicken-thighs-saffron-rice_3x2_ty-mecham_3-.jpg){width="75%" loading="lazy"}
 
 ## Ingredients
 
@@ -29,7 +29,8 @@
     1. Transfer to a plate.
 3. Cook potatoes in residual fat until golden brown _(3-5 minutes)_.
     1. Transfer to a plate with a slotted spoon.
-4. Add the sauce puree, garam masala, and a pinch of salt to the pan. Cook until the puree is thick, caramelised, and the fat breaks out _(5-7 minutes)_.
+4. Add the sauce puree, garam masala, and a pinch of salt to the pan.
+    1. Cook until the puree is thick, caramelised, and the fat breaks out _(5-7 minutes)_.
 5. Add the drained rice, potatoes and dried fruit with 475ml water.
     1. Season to final taste, bring to a boil.
 6. Nestle chicken thights into the rice, pour over the juices and saffron tea.
