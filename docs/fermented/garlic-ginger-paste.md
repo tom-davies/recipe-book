@@ -11,7 +11,7 @@
 | 1 Bay leaf                        |
 
 !!! warning inline end
-    Open and close the jar every day to prevent excess gas build up and explosion.
+    Open and close the jar **every day** to prevent excess gas build up and explosion
 
 1. Put everything in a jar with a lid
 2. Wait a week
