@@ -1,5 +1,5 @@
 site_name: Tom's Recipe Book
-repo_url: https://github.com/tom-davies/recipes
+repo_url: https://github.com/tom-davies/recipe-book
 
 theme:
   name: material
@@ -8,11 +8,13 @@ theme:
     primary: teal
     accent: green
   features:
-    - toc.integrate
+    - navigation.tabs
+    - navigation.instant
+  icon:
+    logo: material/silverware-fork-knife
 
 plugins:
   - search
-#  - mkdocs_pymdownx_material_extras
 
 markdown_extensions:
   - pymdownx.emoji:
