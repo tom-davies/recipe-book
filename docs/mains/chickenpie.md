@@ -3,17 +3,19 @@
 ![chickenpie.jpg](./unsplash-pie.jpg){ width="50%" align="right" loading="lazy"}
 
 ## Ingredients - Serves 2
-* [ ] 400g Chicken
-* [ ] 1/2 an onion
-* [ ] 85g mushrooms
-* [ ] 85g leeks
-* [ ] 100ml milk
-* [ ] 100ml stock
-* [ ] 10g flour
-* [ ] 30g butter
-* [ ] 150g [Pastry](./pastry)
-* [ ] 1 egg (beaten)
 
+|                              |
+| ---------------------------- |
+| **400 g** Chicken            |
+| **1/2** an onion             |
+| **85 g** mushrooms           |
+| **85 g** leeks               |
+| **100 ml** milk              |
+| **100 ml** stock             |
+| **10 g** flour               |
+| **30 g** butter              |
+| **150 g** [Pastry](./pastry) |
+| **1** egg (beaten)           |                             |
 
 ## Method
 1. Set oven to 220°C
