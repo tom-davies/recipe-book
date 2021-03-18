@@ -1,6 +1,6 @@
 # Chicken and Mushroom Pie
 
-![chickenpie.jpg](./unsplash-pie.jpg){ width="50%" align="right" loading="lazy"}
+![Chicken Pie (Photo by Rebecca Matthews)](./unsplash-pie.jpg){width="50%" align="right" loading="lazy"}
 
 ## Ingredients - Serves 2
 
@@ -24,3 +24,7 @@
 3. Add vegetables, stock, milk. Cover and simmer until tender
 4. Put into an ovenproof dish, cover with pastry, brush and seal with eggwash
 5. Bake until pastry is golden brown _(20-30 mins)_
+
+??? Sources
+    Photo by <a href="https://unsplash.com/@rebeccamatthews?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Rebecca Matthews</a> on <a href="/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  

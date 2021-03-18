@@ -1,5 +1,7 @@
 # Shortcrust Pastry
 
+![Pastry (Photo by Nathan Dumlao)](./unsplash-pastry.jpg){loading="lazy"}
+
 ## Ingredients
 
 |                                                                  |
@@ -7,7 +9,6 @@
 | **2 parts** plain flour                                          |
 | **1 part** room temperature solid fat (butter, lard, shortening) |
 | **100 ml** cold water                                            |
-|
 
 ## Method
 1. Cut fat into small pieces
@@ -19,3 +20,6 @@
     To make crumble topping, don't add water.
     
     Add 1 part caster sugar for 1 part fat instead.
+
+??? Sources
+    Photo by <a href="https://unsplash.com/@nate_dumlao?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Nathan Dumlao</a> on <a href="/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
