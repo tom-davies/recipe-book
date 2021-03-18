@@ -1,6 +1,6 @@
 # Pork and Apple Braise
 
-![pork-apple-braise.jpg](https://vole.wtf/plaiceholder-images/portrait.jpg){ width=400px align="right" loading="lazy"}
+![pork-apple-braise.jpg](https://vole.wtf/plaiceholder-images/portrait.jpg){ width="50%" align="right" loading="lazy"}
 
 ## Ingredients
 

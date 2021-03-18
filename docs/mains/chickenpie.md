@@ -1,6 +1,6 @@
 # Chicken and Mushroom Pie
 
-![chickenpie.jpg](./unsplash-pie.jpg){ width=400px align="right" loading="lazy"}
+![chickenpie.jpg](./unsplash-pie.jpg){ width="50%" align="right" loading="lazy"}
 
 ## Ingredients - Serves 2
 * [ ] 400g Chicken
