@@ -39,6 +39,6 @@
 ---
 
 ??? tip "Sources"
-    This recipe comes from Sohla El-Waylly's Food52 series "Off Script with Sohla"
+    Sohla El-Waylly's Food52 series "Off Script with Sohla"
     
     [One-Skillet Garam Masala Chicken & Rice](https://food52.com/recipes/84132-garam-masala-chicken-thighs-saffron-rice-recipe)
