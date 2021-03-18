@@ -4,14 +4,14 @@
 
 |                                   |
 | --------------------------------- |
-| 250g ginger, chopped large        |
-| 165g garlic, whole cloves crushed |
-| 6g salt                           |
-| 1/2 tsp honey                     |
-| 1 Bay leaf                        |
+| **250 g** ginger, chopped large        |
+| **165 g** garlic, whole cloves crushed |
+| **6 g** salt                           |
+| **1/2 tsp** honey                     |
+| **1** Bay leaf                        |
 
 !!! warning inline end
-    Open and close the jar **every day** to prevent excess gas build up and explosion
+    Open and close the jar _every day_ to prevent excess gas build up and explosion
 
 1. Put everything in a jar with a lid
 2. Wait a week
