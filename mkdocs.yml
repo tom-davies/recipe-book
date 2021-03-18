@@ -1,5 +1,6 @@
 site_name: Tom's Recipe Book
 repo_url: https://github.com/tom-davies/recipe-book
+repo_name: tom-davies/recipe-book
 
 theme:
   name: material
