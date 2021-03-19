@@ -1,6 +1,6 @@
 # Sohla's Chicken and Rice
 
-![chicken-rice.jpg](https://images.food52.com/-oLZGXQnU6ZFZEYfFs5mGhmwWuA=/1008x672/filters:format(webp)/b5dcb317-035a-4085-9166-52fce19ec759--2020-0827_one-skillet-crispy-garam-masala-chicken-thighs-saffron-rice_3x2_ty-mecham_3-.jpg){loading="lazy"}
+![chicken-rice.jpg](./sohla-chicken-rice.webp){loading="lazy"}
 
 ## Ingredients
 
