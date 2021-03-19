@@ -25,3 +25,6 @@
 5. Slowly stir in the stock, deglazing the pan
 6. Return pork to the pan, add bay leaves and mustard
 7. Simmer for _20 minutes_, season to taste, add parsley
+
+??? Sources
+    Recipe from Good Housekeeping 101 One Pot Recipes

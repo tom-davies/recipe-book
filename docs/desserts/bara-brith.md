@@ -22,3 +22,8 @@
 4. Pour into 2 greased loaf tins
 5. Bake for 1 hour
     1. Loaf is finished when a knife comes clean from the centre
+
+??? Source
+    Recipe from a postcard on holiday in Newport, West Wales
+
+    Photo by Me
