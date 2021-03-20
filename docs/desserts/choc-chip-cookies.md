@@ -1,6 +1,6 @@
 # Chocolate Chip Cookies
 
-![Bara Brith](https://assets.bonappetit.com/photos/5ca534485e96521ff23b382b/1:1/w_2560%2Cc_limit/chocolate-chip-cookie.jpg){width=60% align=right loading=lazy}
+![Chocolate Chip Cookies](https://assets.bonappetit.com/photos/5ca534485e96521ff23b382b/1:1/w_2560%2Cc_limit/chocolate-chip-cookie.jpg){width=60% align=right loading=lazy}
 
 ## Ingredients - Makes 16
 |                                 |
