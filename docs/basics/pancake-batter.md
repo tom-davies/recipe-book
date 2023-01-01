@@ -1,6 +1,6 @@
 # Pancake Batter
 
-![Pancakes (Photo by Monika Grabkowska)](./unsplash-pancake.jpg){width="50%" align="right" loading="lazy"}
+![Pancakes (Photo by Monika Grabkowska)](https://vole.wtf/plaiceholder-images/portrait.jpg){width="50%" align="right" loading="lazy"}
 
 ## Ingredients
 

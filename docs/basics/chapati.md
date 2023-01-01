@@ -1,6 +1,6 @@
 # Chapati
 
-![Chapati](./unsplash-chapati.jpg){loading="lazy"}
+![Chapati](https://vole.wtf/plaiceholder-images/portrait.jpg){width="40%" align="right" loading="lazy"}
 
 ## Ingredients
 

@@ -1,6 +1,6 @@
 # Shortcrust Pastry
 
-![Pastry (Photo by Nathan Dumlao)](./unsplash-pastry.jpg){loading="lazy"}
+![Pastry (Photo by Nathan Dumlao)](https://vole.wtf/plaiceholder-images/portrait.jpg){width="50%" align="right" loading="lazy"}
 
 ## Ingredients
 
