@@ -1,6 +1,8 @@
 # Mushroom Stroganoff
 
+<!--
 ![Mushroom Stroganoff](https://vole.wtf/plaiceholder-images/portrait.jpg){width="50%" align="right" loading="lazy"}
+-->
 
 ## Ingredients - Serves ???
 
