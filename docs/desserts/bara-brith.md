@@ -6,21 +6,23 @@
 
 |                              |
 | ---------------------------- |
-| **450 g** self-raising flour |
+| **500 g** Dried mixed fruit  |
+| **170 g** Soft Brown Sugar   |
+| **225 ml** Hot Tea           |
+| **500 g** plain flour        |
+| **50 g** baking powder       |
 | **1 tsp** mixed spice        |
 | **2 tbsp** warm marmalade    |
 | **1** egg (beaten)           |
-| **450 g** Dried mixed fruit  |
-| **170 g** Soft Brown Sugar   |
-| **225 ml** Hot Tea           |
 
 ## Method
 1. Mix hot tea, brown sugar & dried fruit in a large bowl
     1. Leave overnight to soak
-2. Add egg, marmalade, mixed spice and flour to the fruit and tea mixture
-3. Preheat oven to 160°C
-4. Pour into 2 greased loaf tins
-5. Bake for 1 hour
+2. Mix Flour, baking powder and mixed spice in a large bowl
+3. Add egg, marmalade, fruit and tea to the dry ingredients
+4. Preheat oven to 160°C
+5. Pour into a greased loaf tin
+6. Bake for _45 minutes - 1 hour_
     1. Loaf is finished when a knife comes clean from the centre
 
 ??? Source
