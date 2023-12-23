@@ -25,5 +25,5 @@
 5. Slice steam vents into the top
 5. Bake until pastry is golden brown _(20-30 mins)_
 
-??? Sources
+??? abstract "Sources"
     A commune recipe by Tilly Pembury Smith and Heather Tippin

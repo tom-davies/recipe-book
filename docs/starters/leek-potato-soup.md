@@ -27,5 +27,5 @@
 4. Add watercress, cook for 1 minute
 5. Blend until smooth
 
-??? Sources
+??? abstract "Sources"
     "A Cancer Cookbook" -- Gill Davies (name of actual book unknown)
