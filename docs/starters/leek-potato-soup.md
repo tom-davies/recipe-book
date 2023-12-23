@@ -16,7 +16,7 @@
 | **1** Chicken Stock Cube                              |
 | **1** Bunch Watercress                                |
 
-!!! tip "Vegan Swaps"
+??? tip "Vegan Swaps"
     Swap the butter for **2 tbsp** oil and the Chicken stock cube for a Vegetable stock cube
 
 ## Method
@@ -26,7 +26,6 @@
 3. Bring to a boil then simmer for 30 minutes
 4. Add watercress, cook for 1 minute
 5. Blend until smooth
-
 
 ??? Sources
     "A Cancer Cookbook" -- Gill Davies (name of actual book unknown)
