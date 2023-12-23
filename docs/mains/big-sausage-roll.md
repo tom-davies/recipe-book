@@ -12,7 +12,7 @@
 | **1** Red Onion                                       |
 | **50g** Grated Cheese
 | **2 tbsp** Branston Pickle                            |
-| **150 g** [Pastry](../../basics/pastry)/ Puff Pastry  |
+| **150 g** [Pastry](../basics/pastry.md)/ Puff Pastry  |
 | **1** egg (beaten)                                    |
 
 
