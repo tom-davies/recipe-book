@@ -13,6 +13,8 @@ theme:
     - navigation.instant
   icon:
     logo: material/food
+    admonition:
+      tip: material/leaf
   font:
     text: Fira Sans
     code: Fira Code
